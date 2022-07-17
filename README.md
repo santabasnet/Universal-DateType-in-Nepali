@@ -6,7 +6,7 @@ During my corpus collection work in Nepali, I wanted to understand all types/for
 
 ![Nepali Date State Diagram.](images/state-diagram.png)
 
-My intuition is to make the corpus searchable too. So, I wrote a Java program that understand different formats of Nepalese date and index it into sort-able formats. 
+My intuition is to make the corpus searchable too. So, I wrote a Java program that understands different formats of Nepalese date and index it into sort-able format. 
 
 #### Usage:
 ```Java
